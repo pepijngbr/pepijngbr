@@ -73,7 +73,7 @@
 
 <div>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ps230764&theme=dark" alt="tais993" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ps230764&theme=dark"/></p>
 <span><img width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=ps230764&theme=github_dark&show_icons=true&count_private=true"  alt="GitHub Stats including all private contributions"/></span>
 </div>
 
@@ -88,12 +88,14 @@
 
 ### 2022
 
-- [x] Test
+- [x] Testing with Markdown
 - [ ] Test
 
 ### 2023
 
-- [ ] This will become a goal eventually..
+- [ ] Learn TypeScript
+- [ ] Create Small Puzzle Game
+- [x] This will become a goal eventually..
 - [ ] Same for this one.
 </details>
 

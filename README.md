@@ -1,8 +1,8 @@
-# Hi there, I'm Pepijn 👋
+# Hey there, I'm **Pepijn**! 👋
 
 <details>
 <summary>
-<b>Currently experienced with</b>
+<b>Currently knowledged on</b>
 </summary>
 
 ### Languages
@@ -22,10 +22,13 @@
 
 ![C#](https://img.shields.io/badge/-WPF-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-1389FD?style=flat-square&logo=flutter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0EA5E9?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### Databases
 
 ![MySQL](https://img.shields.io/badge/-MySQL-015B85?style=flat-square&logo=mysql&logoColor=white)
+![MongoDb](https://img.shields.io/badge/-MongoDb-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ### IDEs and text editors
 
@@ -44,6 +47,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Php](https://img.shields.io/badge/-Php-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-1389FD?style=flat-square&logo=flutter&logoColor=white)
 
 </details>
 
@@ -55,6 +59,7 @@
 </summary>
 
 ![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
 </details>
 
 ---
@@ -65,14 +70,13 @@
 </summary>
 
 <div>
-<span><img width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=ps230764&theme=github_dark&show_icons=true" alt="Stats ps230764 on Github" /></span>
-<span><img width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ps230764&theme=github_dark&langs_count=10" alt="Most used languages ps230764 on Github" /></span>
+<span><img width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=ps230764&theme=github_dark&show_icons=true" alt="Stats ps230764 on Github"/></span>
+<span><img width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ps230764&theme=github_dark&langs_count=10" alt="Most used languages ps230764 on Github"/></span>
 </div>
 
 ### Including private contributions
 
 <div>
-
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ps230764&theme=dark"/></p>
 <span><img width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=ps230764&theme=github_dark&show_icons=true&count_private=true"  alt="GitHub Stats including all private contributions"/></span>
 </div>
@@ -89,7 +93,7 @@
 ### 2022
 
 - [x] Testing with Markdown
-- [ ] Test
+- [x] Test
 
 ### 2023
 
@@ -97,6 +101,10 @@
 - [ ] Create Small Puzzle Game
 - [x] This will become a goal eventually..
 - [ ] Same for this one.
+
+### 2024
+- [ ] I wonder what goals I should set and work on here next..
+
 </details>
 
 ---

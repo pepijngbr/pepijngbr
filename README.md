@@ -1,4 +1,4 @@
-# Hey there, I'm **Pepijn**! 👋
+# Hey there, I'm Pepijn! 👋
 
 <details>
 <summary>
@@ -59,6 +59,7 @@
 </summary>
 
 ![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-149ECA?style=flat-square&logo=react&logoColor=white)
 
 </details>
 

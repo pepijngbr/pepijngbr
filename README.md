@@ -71,15 +71,15 @@
 </summary>
 
 <div>
-<span><img width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=ps230764&theme=github_dark&show_icons=true" alt="Stats ps230764 on Github"/></span>
-<span><img width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ps230764&theme=github_dark&langs_count=10" alt="Most used languages ps230764 on Github"/></span>
+<span><img width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=pepijngbr&theme=github_dark&show_icons=true" alt="Stats pepijngbr on Github"/></span>
+<span><img width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepijngbr&theme=github_dark&langs_count=10" alt="Most used languages pepijngbr on Github"/></span>
 </div>
 
 ### Including private contributions
 
 <div>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ps230764&theme=dark"/></p>
-<span><img width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=ps230764&theme=github_dark&show_icons=true&count_private=true"  alt="GitHub Stats including all private contributions"/></span>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=pepijngbr&theme=dark"/></p>
+<span><img width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=pepijngbr&theme=github_dark&show_icons=true&count_private=true"  alt="GitHub Stats including all private contributions"/></span>
 </div>
 
 </details>
@@ -111,7 +111,7 @@
 ---
 
 <!--
-**PS230764/PS230764** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pepijngbr/pepijngbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

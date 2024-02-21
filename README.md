@@ -17,6 +17,7 @@
 
 ![Html](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Scss](https://img.shields.io/badge/-SCSS-BF4080?style=flat-square&logo=SASS&logoColor=white)
 
 ### Frameworks
 
@@ -47,7 +48,8 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Php](https://img.shields.io/badge/-Php-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-1389FD?style=flat-square&logo=flutter&logoColor=white)
+![Scss](https://img.shields.io/badge/-SCSS-BF4080?style=flat-square&logo=SASS&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=vue.js&logoColor=white)
 
 </details>
 
@@ -63,7 +65,6 @@
 ![Kotlin](http://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![React](https://img.shields.io/badge/-React-149ECA?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=vue.js&logoColor=white)
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 
 </details>
